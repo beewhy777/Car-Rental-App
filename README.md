@@ -31,7 +31,7 @@ and then click the "SHOW PRICE" button or you just click on the "CLEAR" button w
 
 Exception handling feature of the App:
 ======================================
-In addition to reducing the likelihood of errors by having most of the input boxes accept only allowed values through the use of drop-down boxes, the App is also equipped with exception handling features which enables the App to catch exceptions such as entering a non-numerical value into the “No of Hours” box or not selecting an insurance option.							              If a value that is not valid is entered into “No of Hours” box or failure to select an insurance option would trigger the error message as shown in the screenshot below:
+In addition to reducing the likelihood of errors by having most of the input boxes accept only allowed values through the use of drop-down boxes, the App is also equipped with exception handling features which enables the App to catch exceptions such as entering a non-numerical value into the “No of Hours” box or not selecting an insurance option.							              If a value that is not valid is entered into “No of Hours” box or one fails to select an insurance option,the App would trigger an error message as shown in the screenshot below:
 
 <p align = "center">
 <img src= "https://i.imgur.com/0YLCVLC.png ",width="50",height ="50",alt="Invalid or Incomplete Values"/)
